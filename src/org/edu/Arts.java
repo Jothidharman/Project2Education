@@ -1,6 +1,14 @@
 package org.edu;
 
 //child class
+//D CLass
+
+
+
+
+
+
+
 
 public class Arts extends Education {
 
